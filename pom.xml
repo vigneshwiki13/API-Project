@@ -3,6 +3,7 @@
   <groupId>com.omrbranch</groupId>
   <artifactId>OmrBranchAPIProject_Vignesh</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies>
   <dependency>
     <groupId>io.rest-assured</groupId>
@@ -52,10 +53,6 @@
     <scope>compile</scope>
 </dependency>
 
-  	<dependency>
-  		<groupId>org.omrbranch</groupId>
-  		<artifactId>API</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
+  	
   </dependencies>
 </project>
